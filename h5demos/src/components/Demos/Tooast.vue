@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-link to="/demos/tooast">jump2Tooast</router-link>
+    <p class="rred">Tooast</p>
   </div>
 </template>
 
