@@ -1,5 +1,0 @@
-$vwUnit: 375;
-
-@function px2vw($px) {
-  @return $px / $vwUnit * 100vw;
-}
